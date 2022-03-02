@@ -1,0 +1,18 @@
+{
+    "films": [
+        {
+            "title": "Star Wars: Episode VI - Return of the Jedi",
+            "release-date": "06/02/1983",
+            "synopsis": "Luke Skywalker (Mark Hamill) battles horrible Jabba the Hut and cruel Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo (Harrison Ford) and Princess Leia (Carrie Fisher) reaffirm their love and team with Chewbacca, Lando Calrissian (Billy Dee Williams), the Ewoks and the androids C-3PO and R2-D2 to aid in the disruption of the Dark Side and the defeat of the evil emperor.",
+            "Runtime": "2Hrs 11mins",
+            "Budget": "$32.5-42.7 million"
+        },
+        {
+            "title": "",
+            "release-date": "",
+            "synopsis": "",
+            "Runtime": "",
+            "Budget": ""
+        }
+    ]
+}

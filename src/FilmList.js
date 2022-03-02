@@ -1,0 +1,1 @@
+const FlimList = ({films, title})
