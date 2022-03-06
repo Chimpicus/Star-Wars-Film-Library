@@ -1,18 +1,60 @@
+
 {
     "films": [
         {
-            "title": "Star Wars: Episode VI - Return of the Jedi",
-            "release-date": "06/02/1983",
-            "synopsis": "Luke Skywalker (Mark Hamill) battles horrible Jabba the Hut and cruel Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo (Harrison Ford) and Princess Leia (Carrie Fisher) reaffirm their love and team with Chewbacca, Lando Calrissian (Billy Dee Williams), the Ewoks and the androids C-3PO and R2-D2 to aid in the disruption of the Dark Side and the defeat of the evil emperor.",
-            "Runtime": "2Hrs 11mins",
-            "Budget": "$32.5-42.7 million"
+            "id": "1",
+            "title": "Star Wars: Episode I - The Phantom Menace",
+            "era": "Prequel trilogy",
+            "releaseDate": "00/00/1900",
+            "synopsis": "",
+            "runtime": "",
+            "budget": "",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/3f/The_Empire_Strikes_Back_%281980_film%29.jpg"
         },
         {
-            "title": "",
-            "release-date": "",
+            "id": "2",
+            "title": "Star Wars: Episode II - The Attack of the Clones",
+            "era": "Prequel trilogy",
+            "releaseDate": "00/00/1900",
             "synopsis": "",
-            "Runtime": "",
-            "Budget": ""
+            "runtime": "",
+            "budget": ""
+        },
+        {
+            "id": "3",
+            "title": "Star Wars: Episode III - Revenge of the Sith",
+            "era": "Prequel trilogy",
+            "releaseDate": "00/00/1900",
+            "synopsis": "",
+            "runtime": "",
+            "budget": ""
+        },
+        {
+            "id": 6,
+            "title": "Star Wars: Episode IV - A New Hope",
+            "era": "Original trilogy",
+            "releaseDate": "00/00/1900",
+            "synopsis": "",
+            "runtime": "",
+            "budget": ""
+        },
+        {
+            "id": 7,
+            "title": "Star Wars: Episode V - The Empire Strikes Back",
+            "era": "Original trilogy",
+            "releaseDate": "05/20/1980",
+            "synopsis": "",
+            "runtime": "",
+            "budget": ""
+        },
+        {
+            "id": 8,
+            "title": "Star Wars: Episode VI - Return of the Jedi",
+            "era": "Original trilogy",
+            "releaseDate": "06/02/1983",
+            "synopsis": "Luke Skywalker (Mark Hamill) battles horrible Jabba the Hut and cruel Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo (Harrison Ford) and Princess Leia (Carrie Fisher) reaffirm their love and team with Chewbacca, Lando Calrissian (Billy Dee Williams), the Ewoks and the androids C-3PO and R2-D2 to aid in the disruption of the Dark Side and the defeat of the evil emperor.",
+            "runtime": "2Hrs 11mins",
+            "budget": "$32.5-42.7 million"
         }
     ]
 }

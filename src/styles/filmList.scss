@@ -1,0 +1,14 @@
+.filmList {
+  margin: 10px 20%;
+  border-radius: 20px;
+
+  &-preview {
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 20px 10%;
+    padding: 20px;
+    &-info {
+      text-decoration: none;
+    }
+  }
+}

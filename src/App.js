@@ -5,11 +5,13 @@ import Home from "./components/Home.js";
 
 
 function App() {
-  console.log("Hello Wolrd")
-
   return (
     <Router>
       <div className="App">
+        <div className="header">
+          <h1>Star Wars - Film Library</h1>
+        </div>
+        
         <Navbar/>
         <div className="conent">
           <Routes>

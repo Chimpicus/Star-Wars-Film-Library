@@ -1,0 +1,12 @@
+.home {
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 25px;
+
+  &-lightside {
+  }
+
+  &-darkside {
+    background-color: black;
+  }
+}
