@@ -9,8 +9,9 @@ const FilmList = ({ films, title }) => {
             <h2 className="title">{title}</h2>
             {films.map((film) => (
                 <div className="filmList-preview" key={film.id}>
+                    <img className="filmList-preview-poster" src={`${film.imageURL}`} alt={`${film.title} poster`} />
                     <Link to={`/films/${film.id}`}>
-                        <h2 className={`filmList-preview-title background-image:URL(${film.imageURL})`}> {film.title}</h2>
+                        <h2 className="filmList-preview-title">{film.title}</h2>
                         <div className="filmList-preview-info">
                             <p>Era: {film.era}</p>
                         </div>
